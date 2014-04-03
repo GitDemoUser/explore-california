@@ -5,5 +5,7 @@ log/
 .*
 !.git
 !.gitignore
+!.gitkeep
 #Ignoring a tracked file
 abcdef.zyz
+
